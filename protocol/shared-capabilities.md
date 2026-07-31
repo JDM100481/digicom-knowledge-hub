@@ -1,21 +1,23 @@
 # Shared capabilities
 
-DigiCom services may use a common set of platform capabilities.
+The Protocol defines reusable capabilities that products may adopt according to their authorized scope.
 
 | Capability | Purpose |
 |---|---|
-| Identity and profiles | Recognize people, organizations, roles, and services |
-| Authentication | Establish that a participant controls an identity or credential |
-| Authorization and consent | Define what a service may do, for whom, and for how long |
-| Service threads | Keep conversations, actions, status, and records together |
-| Notifications | Deliver timely, traceable service updates |
-| Records and receipts | Preserve evidence of requests, decisions, and completed actions |
-| Capability discovery | Let compatible services declare what they can provide |
-| Integration gateway | Connect external or standalone services through governed interfaces |
-| Local assistance | Help users navigate services while preserving user control |
+| Identity and context | Establish who or what is acting and in which context |
+| Roles and permissions | Tie protected actions to an actor, role, resource, scope, and authorization basis |
+| Consent and authorization | Record informed, attributable, scoped, and appropriately revocable permission |
+| Messaging and service threads | Combine human messages, application events, forms, approvals, transactions, and status |
+| Actions | Represent structured requests with known inputs, permissions, states, results, errors, and evidence |
+| Service discovery | Describe providers, availability, costs, dependencies, support, versions, and authorization status |
+| Notifications | Deliver attributable transactional, service, security, or marketing notices |
+| Audit and evidence | Preserve proportionate, permissioned records of material events |
+| Developer contracts | Expose versioned APIs, SDKs, schemas, events, UI contracts, guides, fixtures, and conformance tests |
 
-## Controlled capabilities
+## Identity assurance
 
-Some capabilities carry additional regulatory, financial, security, or safety obligations. Examples include embedded payments, identity assurance, eSIM-based trust, emergency functions, and access to authoritative government records.
+Identity records should distinguish self-asserted, organization-verified, partner-verified, and government-issued attributes.
 
-A service must not assume authorization merely because a technical integration exists.
+## Implementation neutrality
+
+No implementation detail becomes a binding Protocol requirement unless it is included in an approved Protocol version or profile.
