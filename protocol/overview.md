@@ -1,32 +1,26 @@
 # Protocol overview
 
-The DigiCom Protocol is the set of rules, contracts, controls, roles, trust mechanisms, and information-exchange patterns used by DigiCom-conforming services.
+{% hint style="info" %}
+This is a public explanatory edition of **DIGICOM-FND-002 DigiCom Protocol v1.0**, currently classified as a controlled draft. It is not a normative certification standard or operational authorization.
+{% endhint %}
+
+The DigiCom Protocol is the shared set of rules, contracts, controls, roles, trust requirements, information-exchange patterns, and conformance conditions that enables independently developed tools and applications to work as part of one governed digital ecosystem.
 
 ## Objectives
 
-The protocol aims to make services:
+The Protocol is intended to:
 
-* reusable across multiple real-world use cases;
-* interoperable through explicit interfaces;
-* consent-driven and auditable;
-* secure by default;
-* modular enough for independent development;
-* governable during pilot, production, and scale.
+1. enable independently developed applications to participate in one ecosystem;
+2. give developers stable rules and reusable contracts;
+3. allow independent operation where appropriate;
+4. allow authorized tools to surface through myCHAT when myCHAT is activated;
+5. create a familiar path from conversation to real-world action;
+6. protect users through identity, permission, privacy, security, and accountability;
+7. separate regulated services from DigiCom's platform role;
+8. prevent false integration, conformance, certification, or activation claims;
+9. support controlled migration from transitional implementations; and
+10. preserve local flexibility without fragmenting the common ecosystem.
 
-## Protocol concerns
+## Scope
 
-The protocol covers:
-
-1. participant and service identity;
-2. authentication and authorization;
-3. consent and delegated action;
-4. messaging and service-thread behavior;
-5. information exchange and provenance;
-6. transaction and event records;
-7. capability discovery;
-8. conformance evidence;
-9. exception, revocation, and incident handling.
-
-## Normative language
-
-Future technical specifications may use **MUST**, **MUST NOT**, **SHOULD**, **SHOULD NOT**, and **MAY** to distinguish requirements from guidance. Conceptual pages in this site are explanatory unless explicitly marked as normative.
+The Protocol covers actors, identities, roles, permissions, consent, service threads, structured actions, discovery, notifications, evidence, developer contracts, information exchange, security, resilience, conformance, exceptions, and versioning.
