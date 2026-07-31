@@ -1,19 +1,20 @@
 # How the ecosystem fits together
 
-The ecosystem has three distinct layers.
-
 | Layer | Role |
 |---|---|
-| DigiCom Protocol | Defines shared rules, trust, interfaces, governance, and conformance |
-| myCHAT | Provides the familiar chat-based common interface |
-| Standalone applications and linked services | Solve bounded problems or supply specialized capabilities |
+| Constitutional layer | Establishes authority, stewardship, ownership principles, reserved matters, and amendment rules |
+| Protocol layer | Defines shared roles, contracts, trust, information exchange, conformance, and controlled capabilities |
+| Shared capability layer | Supplies reusable identity, permissions, messaging, actions, notifications, audit, discovery, and integrations |
+| Product layer | Contains standalone applications that solve defined real-world problems |
+| Common experience layer | Provides myCHAT as the intended modular user experience |
+| Partner layer | Supplies government, financial, telecommunications, enterprise, community, or other authorized services |
 
-## Core relationship
+## Actors
 
-Applications may operate independently, integrate with myCHAT, or use selected DigiCom capabilities according to their authorization.
+The ecosystem may include a Protocol steward, venture operator, application provider, developer, service provider, regulated partner, organization, user, administrator, and authorized auditor or reviewer.
 
-Integration does not automatically mean interoperability. Interoperability does not automatically mean operational authorization. Controlled capabilities require their own approval.
+One party may perform several roles, but its authority, responsibility, and conflicts must remain explicit.
 
-## Design rule
+## Boundary rule
 
-Keep each participant responsible for its own regulated or operational function. Banks remain banks. Telecommunications providers remain telecommunications providers. Government agencies remain authoritative for government services and records.
+An application can operate independently when separately authorized. It may claim myCHAT integration only after technical validation and operational authorization.
