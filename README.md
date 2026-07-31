@@ -1,37 +1,35 @@
 # DigiCom
 
-> A shared protocol and modular ecosystem for trusted, interoperable, chat-based digital services.
+> A governed digital ecosystem for trusted, interoperable, and locally relevant services.
 
-DigiCom provides the common rules, trust mechanisms, interfaces, and governance that allow independent applications and service providers to work together around real-world community needs.
+DigiCom is the shared constitutional, protocol, governance, and capability foundation under which platforms, ventures, products, partners, and independently developed applications may participate.
 
-## Begin here
+It is not one application. **myCHAT** is the intended common communications-and-services platform. Standalone applications solve bounded real-world problems and may operate independently or connect to myCHAT after validation and authorization.
 
-{% content-ref url="getting-started/what-is-digicom.md" %}
-[what-is-digicom.md](getting-started/what-is-digicom.md)
-{% endcontent-ref %}
+{% hint style="warning" %}
+**Documentation status:** This public site explains the DigiCom foundation. It does not activate a product, authorize development or a pilot, certify an implementation, approve a controlled capability, or replace applicable law and binding agreements.
+{% endhint %}
 
-{% content-ref url="getting-started/vision-and-north-star.md" %}
-[vision-and-north-star.md](getting-started/vision-and-north-star.md)
-{% endcontent-ref %}
+## Start here
 
-{% content-ref url="protocol/overview.md" %}
-[overview.md](protocol/overview.md)
-{% endcontent-ref %}
+* [What is DigiCom?](getting-started/what-is-digicom.md)
+* [Vision and North Star](getting-started/vision-and-north-star.md)
+* [DigiCom Protocol](protocol/overview.md)
+* [BUILD Framework](build-framework/overview.md)
+* [myCHAT](mychat/overview.md)
+* [Product portfolio](ecosystem/product-portfolio.md)
 
-## The ecosystem in one view
+## Ecosystem at a glance
 
-| Component | Purpose |
+| Layer | Purpose |
 |---|---|
-| **DigiCom Protocol** | Shared rules, trust, interfaces, controls, and conformance |
-| **BUILD Framework** | Method for turning bounded problems into minimum governed services |
-| **myCHAT** | Intended common, citizen-facing messenger interface |
-| **Standalone applications** | Independently developed services for specific real-world problems |
-| **Linked providers** | Specialized identity, payment, connectivity, government, and other services |
+| Constitutional | Authority, stewardship, ownership principles, and amendment rules |
+| Protocol | Shared roles, contracts, trust, information exchange, and conformance |
+| Shared capabilities | Reusable identity, permissions, messaging, actions, notifications, audit, and integrations |
+| Product | Standalone applications solving defined real-world problems |
+| Common experience | myCHAT as the intended modular common platform |
+| Partner | Government, financial, telecommunications, enterprise, and community services |
 
-## Design commitment
+## Governing idea
 
-DigiCom is designed to empower multiple builders rather than concentrate every service in one product. Applications can remain independent, reuse common capabilities, and connect through governed gateways or bridges.
-
-## Documentation status
-
-This is the initial public foundation. Conceptual guidance is explanatory unless explicitly identified as normative. Technical specifications, schemas, SDKs, reference integrations, and conformance tests will be added through controlled, versioned releases.
+DigiCom empowers many builders rather than concentrating every service in one monolithic product. Participation remains modular, responsibilities remain explicit, and evidence must precede scale.
