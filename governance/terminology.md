@@ -2,16 +2,17 @@
 
 | Term | Meaning |
 |---|---|
-| DigiCom | The wider protocol, trust, governance, and interoperability ecosystem |
-| DigiCom Protocol | The shared rules, contracts, controls, roles, and information-exchange patterns |
-| BUILD Framework | The method for designing and developing minimum governed services |
-| myCHAT | The intended common, chat-based interface for DigiCom-enabled services |
-| Standalone application | An independently developed service for a bounded problem |
+| DigiCom | The governed digital ecosystem and its constitutional, protocol, governance, and capability foundation |
+| DigiCom Protocol | Shared rules, contracts, controls, roles, trust requirements, information-exchange patterns, and conformance conditions |
+| BUILD | Boundaries, Users, Interoperability, Launch, and Data |
+| myCHAT | The intended common modular communications-and-services platform |
+| Standalone application | An independently accountable product solving a defined problem |
 | Shared capability | A reusable function exposed through a governed contract |
 | Integration | A technical connection between systems |
-| Interoperability | The ability of systems to exchange and correctly use information |
-| Conformance | Demonstrated satisfaction of specified DigiCom requirements |
-| Operational authorization | Permission to operate a defined service in a defined environment |
-| Controlled capability | A sensitive or regulated capability requiring separate approval |
-| Service thread | A conversation that holds service context, actions, status, and records |
-| Minimum governed service | The smallest authorized service capable of producing a real, measurable outcome |
+| Interoperability | Validated compatibility of identities, permissions, contracts, actions, states, errors, and trust responsibilities |
+| Conformance | Demonstrated satisfaction of applicable requirements for a declared version and scope |
+| Operational authorization | Explicit permission to operate with defined users, territory, purpose, duration, and limits |
+| Controlled capability | A financial, identity, telecommunications, government, sensitive-data, safety, or other governed function requiring separate approval |
+| Service thread | A conversation combining messages, events, forms, actions, status, records, and support context |
+| Minimum governed service | The smallest authorized service capable of producing useful evidence |
+| MyGene | The intended local-only second brain within myCHAT; it may retrieve or summarize information but cannot initiate actions |
