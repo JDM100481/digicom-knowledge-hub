@@ -1,29 +1,33 @@
 # Conformance and authorization
 
-DigiCom separates technical alignment from permission to operate.
+DigiCom separates alignment, conformance, technical integration, operational authorization, and controlled-capability approval.
 
-## Progression
+## Conformance stages
 
-1. **Alignment** — the service follows DigiCom concepts and design principles.
-2. **Protocol conformance** — evidence shows that required protocol rules are implemented.
-3. **Technical integration validation** — interfaces and exchanges work as specified.
-4. **Operational authorization** — the service is approved for a defined environment, participants, and purpose.
-5. **Controlled-capability authorization** — additional approval is granted for sensitive or regulated capabilities.
+1. **Alignment**: the implementation follows DigiCom concepts and declared design principles.
+2. **Protocol conformance**: evidence demonstrates the applicable Protocol requirements.
+3. **Technical integration validation**: interfaces and exchanges work as defined.
+4. **Operational authorization**: the service is approved for a specified operator, territory, user group, purpose, duration, and limits.
+5. **Controlled-capability authorization**: separate approval exists for sensitive, regulated, or high-risk capabilities.
 
-## Terminology rule
+## Claim rules
 
-Use **DigiCom-conforming** only when the applicable conformance requirements have been demonstrated.
+A party may use **DigiCom-conforming** only for the validated scope and version.
 
-Do not use **DigiCom-compliant** as a general marketing claim. Compliance may depend on laws, regulators, contracts, certifications, and operational evidence outside the protocol.
+A similar implementation, shared API, portfolio listing, or development relationship does not establish conformance, myCHAT integration, certification, or operating authority.
 
 ## Transitional applications
 
-A transitional application may participate with documented gaps when a responsible authority approves:
+A transitional implementation requires a written exception record covering:
 
-* the limited scope;
-* known exceptions;
-* safeguards;
-* migration obligations;
-* review or expiry dates.
+* the gap;
+* affected requirements;
+* reason;
+* risk;
+* compensating controls;
+* accountable owner;
+* migration plan;
+* expiry or review date; and
+* approval.
 
-Transitional status must not be represented as full conformance.
+It must not represent transitional participation as full conformance.
