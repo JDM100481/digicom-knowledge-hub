@@ -1,23 +1,26 @@
 # myCHAT overview
 
-myCHAT is the intended common, citizen-facing platform for DigiCom-enabled services.
+{% hint style="warning" %}
+The authoritative vault classifies **DIGICOM-PRD-001 myCHAT Product Specification v1.0** as a controlled draft at the Boundaries stage with activation **inactive**. This page describes the intended product and does not authorize development, integration, pilot operation, or launch.
+{% endhint %}
 
-Its core experience is a lightweight, mobile-first messenger interface. People communicate normally, while authorized service actions happen within the conversation through clear prompts, status updates, records, and receipts.
+myCHAT is envisioned as the proud Filipino common communications-and-services platform through which people use independently developed DigiCom-enabled tools to address real-world problems.
 
-## Core functions
+## Intended role
 
-* familiar person-to-person and group messaging;
-* service conversations and action cards;
-* identity and consent prompts;
-* linked payment or wallet services;
-* connectivity and eSIM-enabled services through approved providers;
-* local AI assistance that learns user preferences while preserving user control;
-* gateway access to standalone applications.
+DigiCom supplies the shared Protocol, reusable capabilities, interoperability, trust, and governance. myCHAT supplies one familiar common experience.
 
-## Modular by design
+myCHAT is not the Protocol itself and does not own every application surfaced through it.
 
-myCHAT should remain lightweight. Specialized applications do not need to be embedded permanently in the core client. They may connect through a governed gateway or bridge and present relevant actions inside a service thread.
+## Product thesis
 
-## Responsibility boundary
+People already understand chat. The platform uses familiar conversation as a common access layer while keeping services modular, independently accountable, permissioned, interoperable, lightweight, and governed.
 
-myCHAT is an interface and coordination layer. It does not automatically become the legal provider of every connected service.
+## Intended core profile
+
+1. familiar messenger-style communication;
+2. modular service threads and applications;
+3. appropriate user actions completed inside conversation;
+4. an embedded wallet experience through authorized financial partners;
+5. eSIM-powered connectivity through authorized telecommunications partners; and
+6. MyGene, a local-only second brain that can organize and retrieve information but cannot initiate actions.
