@@ -1,28 +1,21 @@
 # Standalone applications
 
-Standalone applications are independently developed services that solve bounded real-world problems and connect through DigiCom-defined interfaces.
+Standalone applications solve a defined real-world problem or related problem group.
 
-## Example domains
+They retain their own product specification and accountable operator, may use only the DigiCom capabilities required for their authorized scope, and may operate without myCHAT when separately authorized.
 
-* barangay and local community services;
-* household and kasambahay coordination;
-* OFW and family services;
-* TODA membership, terminal queues, dispatch, rides, dues, and reporting;
-* village access and community operations;
-* logistics and balikbayan-box coordination.
+## Participation types
 
-These are examples, not automatic endorsements or operational authorizations.
+| Type | Description |
+|---|---|
+| Native module | Designed primarily for myCHAT |
+| Integrated standalone app | Operates independently and inside myCHAT |
+| Standalone conforming app | Uses DigiCom without myCHAT integration |
+| Partner service | Specialized or regulated service supplied by another entity |
+| Transitional app | Temporarily operates with approved gaps and a migration plan |
 
-## Participation models
+## Admission boundary
 
-An application may:
+Before appearing in myCHAT, an application needs an accountable provider, defined problem, product specification, applicable Protocol profile, permissions and data contract, action definitions, disclosures, security and privacy evidence, support routes, technical validation, operational authorization, and separate approval for controlled capabilities.
 
-1. operate independently while aligning with DigiCom principles;
-2. implement the DigiCom Protocol;
-3. integrate selected capabilities;
-4. appear within myCHAT through a gateway or bridge;
-5. become authorized for a defined pilot or production environment.
-
-## Developer independence
-
-DigiCom is intended to empower multiple builders. A standalone application retains its own product scope, team, obligations, and intellectual property, subject to its agreements and the requirements of any DigiCom capabilities it uses.
+Portfolio inclusion or a development relationship does not authorize development, integration, pilot operation, or public launch.
