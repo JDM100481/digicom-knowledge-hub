@@ -1,33 +1,37 @@
 # Core principles
 
-## Bound real problems
+## Real-world problem first
 
-Every service begins with a defined user, problem, authority, and outcome.
+Every participating tool begins with a defined user, organization, group, or community problem.
 
-## Conversation before complexity
+## Shared foundation, independent solutions
 
-Use familiar chat interactions where they reduce friction, but keep actions explicit and verifiable.
+DigiCom supplies common rules and capabilities. Participating builders may create specialized applications without automatically transferring product ownership.
 
-## Consent before action
+## Modular by default
 
-People must understand what data or authority is being requested before a service acts for them.
+Capabilities should be separable, replaceable, and composable. Products adopt only what their authorized use case requires.
 
-## Minimum necessary data
+## Interoperability by contract
 
-Collect, disclose, and retain only what is required for the authorized purpose.
+Compatible technology or a shared API is insufficient. Identities, permissions, data contracts, actions, states, errors, and trust responsibilities must be compatible and validated.
 
-## Clear responsibility
+## Conversation as an action surface
 
-Every service, provider, and operator retains responsibility for its own decisions and regulated functions.
+Users may discover services, submit requests, grant permission, receive decisions, complete authorized transactions, and follow progress through conversation. Chat must not hide legal meaning, cost, recipient, consequence, or irreversibility.
 
-## Reusable capabilities
+## User agency
 
-Identity, messaging, consent, payments, connectivity, records, and notifications should be reusable through stable contracts.
+Users should understand who is acting, what data is involved, and how to stop, correct, appeal, or exit where applicable.
+
+## Minimum necessary trust
+
+Identity assurance, access, security, and evidence must be proportionate to the action's risk and consequence.
+
+## Partner-led regulated capability
+
+Licensed partners remain responsible for regulated services. DigiCom does not inherit a partner's license.
 
 ## Evidence before scale
 
-Launch a minimum governed service, measure outcomes, correct failures, and scale only when evidence supports expansion.
-
-## Portable participation
-
-The protocol should avoid unnecessary dependence on a single application, vendor, provider, or deployment environment.
+Products follow BUILD. Conformance and operating authority expand only through evidence.
