@@ -1,36 +1,23 @@
 # BUILD Framework
 
-BUILD is DigiCom's disciplined method for moving from a real-world problem to a governed digital service.
+{% hint style="info" %}
+This is a public explanatory edition of **DIGICOM-FND-003 BUILD Framework v1.0**, currently classified as a controlled draft.
+{% endhint %}
 
-## B — Bound the problem
+BUILD is DigiCom's mandatory method for moving a real-world problem from exploration to a governed service and then developing it through evidence.
 
-Identify the people, problem, authority, operating environment, constraints, and measurable outcome.
+| Stage | Meaning | Primary question |
+|---|---|---|
+| **B** | Boundaries | What real problem is inside the initial scope, and what is outside it? |
+| **U** | Users | Who experiences the problem, and what do they actually need? |
+| **I** | Interoperability | How will the solution reuse capabilities and work through DigiCom? |
+| **L** | Launch the minimum governed service | What is the smallest authorized service that can produce useful evidence? |
+| **D** | Data | What does the evidence justify doing next? |
 
-## U — Unify through shared capabilities
+> **Boundaries. Users. Interoperability. Launch. Data.**
 
-Determine which trusted capabilities can be reused across the service instead of rebuilt.
+BUILD is sequential as a control model, but evidence may require returning to an earlier stage. Returning is not failure. Continuing with material uncertainty is.
 
-## I — Integrate under the DigiCom Protocol
+## Mandatory rule
 
-Define participants, permissions, interfaces, information exchanges, trust boundaries, and evidence requirements.
-
-## L — Launch the minimum governed service
-
-Pilot the smallest service that can safely produce a real outcome. Define the pilot group, operators, exception handling, and stop conditions.
-
-## D — Develop through evidence
-
-**Validate → Iterate → Demonstrate → Scale**
-
-Use operational evidence to correct assumptions, improve the service, prove value, and decide whether expansion is justified.
-
-## Output of a BUILD cycle
-
-A complete cycle should produce:
-
-* a bounded service definition;
-* participant and responsibility map;
-* capability and integration design;
-* governance and risk controls;
-* pilot acceptance criteria;
-* evidence and learning plan.
+Completing BUILD documentation does not automatically activate a product, approve funding, establish Protocol conformance, or authorize a controlled capability.
