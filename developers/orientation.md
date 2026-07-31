@@ -1,28 +1,30 @@
 # Developer orientation
 
-DigiCom welcomes developers building focused services for real-world needs.
+DigiCom is designed for applications created by individuals, groups, organizations, developers, enterprises, public-service partners, and DigiCom ventures.
 
-## Start with the service
+## Begin with BUILD
 
-Before choosing technology, define:
+1. **Boundaries:** define the real problem and exclusions.
+2. **Users:** understand affected users and the minimum useful journey.
+3. **Interoperability:** determine which DigiCom capabilities and contracts apply.
+4. **Launch:** define the smallest governed service able to produce evidence.
+5. **Data:** decide whether evidence supports validation, iteration, demonstration, scale, hold, or stop.
 
-* the user and problem;
-* the responsible organization or operator;
-* the action to be completed;
-* the minimum information required;
-* the evidence of success;
-* foreseeable failure and exception paths.
+## Developer requirements
 
-## Integration sequence
+A participating implementation should define:
 
-1. Bound the use case with the BUILD Framework.
-2. Identify protocol actors and trust boundaries.
-3. Select only the required shared capabilities.
-4. Define consent, authorization, and data flows.
-5. Implement interfaces and service-thread behavior.
-6. Produce conformance and test evidence.
-7. Validate within an authorized pilot.
+* accountable provider and service purpose;
+* actors, roles, and permissions;
+* identity and assurance needs;
+* consent and data exchanges;
+* service-thread behavior;
+* structured actions and lifecycle states;
+* support, correction, reversal, and escalation;
+* security, privacy, audit, and retention;
+* Protocol profile and version; and
+* conformance evidence.
 
-## Current documentation status
+## Publication status
 
-This site begins with the conceptual foundation. Normative schemas, API contracts, SDK instructions, reference implementations, and test suites will be published as they are approved and versioned.
+Normative schemas, APIs, SDKs, fixtures, reference implementations, and automated conformance tests remain future controlled releases.
