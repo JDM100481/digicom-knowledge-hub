@@ -1,29 +1,26 @@
 # What is DigiCom?
 
-DigiCom is a shared digital coordination protocol for building reusable, trusted, and interoperable services around real-world community needs.
+DigiCom is the shared constitutional, protocol, governance, and capability foundation for a governed digital ecosystem.
 
-It defines the common rules, roles, interfaces, controls, and trust mechanisms that allow independent applications and service providers to work together without becoming one monolithic system.
+It enables independently developed tools and applications to reuse common capabilities, exchange information through explicit contracts, and participate without becoming one monolithic product.
 
-## What DigiCom enables
+## Purpose
 
-DigiCom is designed to help individuals, developers, groups, organizations, and institutions:
+DigiCom exists to:
 
-* build tools for specific real-world problems;
-* reuse trusted platform capabilities instead of rebuilding them;
-* exchange information through governed interfaces;
-* connect independent services while preserving clear responsibility;
-* launch small pilots and improve them through evidence.
+* enable locally relevant services around real-world problems;
+* provide stable rules and reusable contracts for developers;
+* preserve application independence where appropriate;
+* allow authorized services to surface through myCHAT;
+* protect users through identity, permission, privacy, security, and accountability controls;
+* keep regulated functions with the responsible licensed providers; and
+* support controlled learning before scale.
 
-## DigiCom is not
+## The essential distinction
 
-DigiCom is not a single app, a social network, a bank, a telecommunications carrier, or a government identity system.
+**DigiCom is the foundation.**  
+**myCHAT is the intended common user experience.**  
+**Standalone applications solve bounded problems.**  
+**Partners provide specialized or regulated services.**
 
-Those services may connect to the ecosystem through approved integrations. Their regulated responsibilities remain with the relevant provider.
-
-## Protocol and products
-
-The **DigiCom Protocol** is the shared foundation.
-
-**myCHAT** is the intended common, citizen-facing chat platform built on that foundation.
-
-**Standalone applications** solve bounded problems such as barangay services, household coordination, OFW-family services, local transport, and community operations.
+Technical connection, Protocol conformance, myCHAT integration, operational authorization, and controlled-capability approval are separate conditions.
