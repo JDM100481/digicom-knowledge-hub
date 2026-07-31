@@ -2,14 +2,27 @@
 
 ## Vision
 
-Enable people and communities to coordinate trusted digital services through familiar conversations rather than fragmented application workflows.
+DigiCom enables trusted, interoperable, and locally relevant services to be developed, integrated, and operated through a common governed ecosystem.
+
+myCHAT is envisioned as a proud Filipino communications-and-services platform designed around Philippine communities, institutions, constraints, and everyday needs.
+
+Its value is intended to grow through tools created by individuals, families, groups, communities, organizations, developers, enterprises, and public-service partners.
+
+## Product thesis
+
+People already understand chat. They should not need to learn a different interface, create an unrelated account, or navigate a complex portal for every local service.
+
+myCHAT turns familiar conversation into a common access layer while keeping each service:
+
+* modular;
+* independently accountable;
+* permissioned;
+* interoperable;
+* locally relevant;
+* replaceable;
+* lightweight; and
+* governed.
 
 ## North Star
 
-A person should be able to discover a service, understand what will happen, give informed consent, complete the action, receive a verifiable result, and keep a clear record without leaving the conversation unnecessarily.
-
-## Strategic direction
-
-DigiCom is designed as an open and modular Filipino digital ecosystem. Its strength should come from independent builders contributing useful, conforming services—not from one entity attempting to own every service.
-
-If China has WeChat, Japan has LINE, and South Korea has KakaoTalk, myCHAT is envisioned as a distinctly Filipino common platform: built around local needs and strengthened by applications developed by individuals, groups, organizations, institutions, and developers.
+A person should be able to discover a service, understand the responsible provider and consequences, grant appropriate permission, complete an authorized action, follow its status, and retain a clear record through one familiar conversational experience.
